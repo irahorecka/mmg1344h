@@ -1,6 +1,6 @@
 # MMG1344H
 
-Resources, notes, and assignments for MMG1344H. The full course syllabus can be found [here](https://docs.google.com/document/d/18jFdHu8cv6SIw0epMO0x7eE4oR2L4yEj_ftv3r8dZVQ/edit#).
+Resources for MMG1344H. The full course syllabus can be found [here](https://docs.google.com/document/d/18jFdHu8cv6SIw0epMO0x7eE4oR2L4yEj_ftv3r8dZVQ/edit#).
 
 ## Spring 2022
 
