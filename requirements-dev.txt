@@ -1,7 +1,7 @@
 biopython
 black
 flake8
-jblack
+jupyterblack
 matplotlib
 numpy
 pandas
