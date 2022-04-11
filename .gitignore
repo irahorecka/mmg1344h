@@ -13,5 +13,8 @@ __pycache__/
 
 # MMG1344H
 *.docx
+*.ipynb
+*.py
+*.r
 *.rtf
-notes.txt
+*notes.txt
