@@ -1,0 +1,9 @@
+biopython
+black
+flake8
+jblack
+matplotlib
+numpy
+pandas
+pylint
+regex
