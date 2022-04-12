@@ -1,3 +1,5 @@
+SHELL:=/bin/bash
+
 black: ## Black format every python file to line length 100
 	find . -type f -name "*.py" | xargs black --line-length=100;
 	find . -type f -name "*.py" | xargs absolufy-imports;
@@ -14,3 +16,6 @@ clean: ## Remove pycache and .DS_Store
 	find . -type d -name "__pycache__" | xargs rm -r;
 	find . -type d -name ".ipynb_checkpoints" | xargs rm -r;
 	find . -type f -name ".DS_Store" | xargs rm -r;
+
+underscore: ## Recursively convert whitespace in directory and file names to underscore
+	bash scripts/convert_whitespace_to_underscore.sh;
