@@ -1,9 +1,4 @@
-biopython
 black
 flake8
 jupyterblack
-matplotlib
-numpy
-pandas
 pylint
-regex
