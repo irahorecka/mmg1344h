@@ -17,4 +17,6 @@ __pycache__/
 *.py
 *.r
 *.rtf
+*.Rhistory
 *notes.txt
+Submission/
