@@ -20,9 +20,9 @@ Enrollment is subject to Instructor approval, and **will require**:
 
 *When*:
 
-* FCB I will be from **1PM - 3PM**, starting **Thursday April 7** and recurring weekly **until May 12** ([.ics file](./ics/MMG1344H%20FCBI%20Lecture.ics.zip))
-* FCB II will be on **Thursdays from 1PM - 3PM**, starting **May 19** and ending **June 23** ([.ics file](./ics/MMG1344H%20FCBII%20Lecture.ics.zip))
-* TA office hours will be on **Thursday from 11AM - 12PM** ([.ics file](./ics/MMG1344H%20TA%20Office%20Hours.ics.zip))
+* FCB I will be from **1PM - 3PM**, starting **Thursday April 7** and recurring weekly **until May 12** ([.ics file](./ics/MMG1344H_FCBI_Lecture.ics.zip))
+* FCB II will be on **Thursdays from 1PM - 3PM**, starting **May 19** and ending **June 23** ([.ics file](./ics/MMG1344H_FCBII_Lecture.ics.zip))
+* TA office hours will be on **Thursday from 11AM - 12PM** ([.ics file](./ics/MMG1344H_TA_Office_Hours.ics.zip))
 
 *Where*:
 
